@@ -1,0 +1,4 @@
+This FORTRAN code is part of NWchem RT-TDDFT module. Its purpose is to
+introduce electric field for calculations. Has different types of
+field shapes that can be used for excitation calculations, for
+example.
